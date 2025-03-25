@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cowin-dashboard-container {
+  background-color: #161625;
+  height: 100vh; /*Removable*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* align-items: center; */
+}
+.cowin-dashboard-box {
+  width: 90%;
+}
+.website-logo-para {
+  color: #2cc6c6;
+}
+.website-logo-box {
+  display: flex;
+  align-items: center;
+}
+.website-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.cowin-dashboard-heading {
+  color: #cbd5e1;
+  font-size: 20px;
+}
